@@ -1,8 +1,11 @@
 [deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DataFramesMeta = "1313f7d8-7da2-5740-9ea0-a2ca25f37964"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 HCRSimJul = "7b598fbe-bfc2-4caa-b422-6e2411f87706"
 MonteCarloMeasurements = "0987c9cc-fe09-11e8-30f0-b96dd679fdca"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 RollingFunctions = "b0e4dd01-7b14-53d8-9b45-175a3e362653"
+StatFiles = "1463e38c-9381-5320-bcd4-4134955f093a"
 WearableDataParser = "10ba1823-800b-4c22-9724-ca7461339ffb"
