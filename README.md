@@ -32,6 +32,6 @@ zero as the uncertainty will neither grow or decrease under a uniform propagatio
 forward. 
 
 * C > 0: means that the light reduced the phase uncertainty (as the uncertainty
-after goes to zero C goes to infinity.)
+after goes to zero C goes to infinity.) Higher positive C would be a more regular schedule. 
 
 * C < 0: means that the light exposure increased the uncertainty on the phase
